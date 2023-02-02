@@ -14,6 +14,6 @@ jobs:
       - uses: tgymnich/fork-sync@v1.8
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
-          owner: rokoo
+          owner: coolsnowwolf
           base: master
           head: master
