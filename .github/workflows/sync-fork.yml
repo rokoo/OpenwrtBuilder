@@ -15,5 +15,6 @@ jobs:
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           owner: coolsnowwolf
+          repo: lede
           base: master
           head: master
